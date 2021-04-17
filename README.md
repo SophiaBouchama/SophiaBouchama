@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SophiaBouchama
 - 👀 I’m interested in ... Data Science
 - 🌱 I’m currently learning ... Supervised and Unsupervised Machine Learning algortihms
-- 💞️ I’m looking to collaborate on ... Data Science/Analytics projects
+- 💞️ I’m looking to collaborate on ... ML/Data Science/Analytics projects
 - 📫 How to reach me ... hello@sophiabouchama.com
 
 <!---
